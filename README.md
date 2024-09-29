@@ -6,6 +6,7 @@ This is a an algorithm visualizer that at the moment has implemented the followi
 You need any IDE that can run python and the pygame library
 
 How to use:
+
 0) Run the application
 1) If you want to generate a maze: optimally middle click the square in the upper right and the press space and wait for the maze to finish,
 2) Then select a starting point and a ending point by click the left mouse button,
